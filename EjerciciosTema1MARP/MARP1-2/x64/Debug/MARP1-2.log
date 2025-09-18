@@ -1,0 +1,25 @@
+﻿  MARP1-2.cpp
+C:\Users\jose_\Desktop\MARP-2025\EjerciciosTema1MARP\MARP1-2\TreeSet_AVL.h(106,17): error C2228: el operando izquierdo de '.tam_i' debe tener class/struct/union
+  (compilando archivo de origen "MARP1-2.cpp")
+      C:\Users\jose_\Desktop\MARP-2025\EjerciciosTema1MARP\MARP1-2\TreeSet_AVL.h(106,17):
+      el tipo es 'Set<int,std::less<int>>::TreeNode *'
+      C:\Users\jose_\Desktop\MARP-2025\EjerciciosTema1MARP\MARP1-2\TreeSet_AVL.h(106,17):
+      ¿deseaba utilizar '->' en su lugar?
+      C:\Users\jose_\Desktop\MARP-2025\EjerciciosTema1MARP\MARP1-2\TreeSet_AVL.h(106,17):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          C:\Users\jose_\Desktop\MARP-2025\EjerciciosTema1MARP\MARP1-2\MARP1-2.cpp(38,11):
+          Vea la referencia a la creación de una instancia de clase plantilla "Set<int,std::less<int>>" que se está compilando
+          C:\Users\jose_\Desktop\MARP-2025\EjerciciosTema1MARP\MARP1-2\TreeSet_AVL.h(102,8):
+          al compilar la función del miembro clase plantilla "int Set<int,std::less<int>>::kesimoElem(Set<int,std::less<int>>::TreeNode *&,int)"
+              C:\Users\jose_\Desktop\MARP-2025\EjerciciosTema1MARP\MARP1-2\TreeSet_AVL.h(87,8):
+              vea la primera referencia a “Set<int,std::less<int>>::kesimoElem” en “Set<int,std::less<int>>::kesimo”
+              C:\Users\jose_\Desktop\MARP-2025\EjerciciosTema1MARP\MARP1-2\MARP1-2.cpp(46,25):
+              vea la primera referencia a “Set<int,std::less<int>>::kesimo” en “resuelveCaso”
+  
+C:\Users\jose_\Desktop\MARP-2025\EjerciciosTema1MARP\MARP1-2\TreeSet_AVL.h(112,23): error C2660: 'Set<int,std::less<int>>::kesimoElem': la función no acepta 1 argumentos
+  (compilando archivo de origen "MARP1-2.cpp")
+      C:\Users\jose_\Desktop\MARP-2025\EjerciciosTema1MARP\MARP1-2\TreeSet_AVL.h(102,8):
+      vea la declaración de 'Set<int,std::less<int>>::kesimoElem'
+      C:\Users\jose_\Desktop\MARP-2025\EjerciciosTema1MARP\MARP1-2\TreeSet_AVL.h(112,23):
+      al hacer coincidir la lista de argumentos '()'
+  

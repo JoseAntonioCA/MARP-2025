@@ -34,6 +34,7 @@ protected:
       T elem;
       Link iz, dr;
       int altura;
+      int tam_i;
       TreeNode(T const& e, Link i = nullptr, Link d = nullptr,
                int alt = 1) : elem(e), iz(i), dr(d), altura(alt) {}
    };
@@ -131,9 +132,11 @@ protected:
       if (a == nullptr) { // se inserta el nuevo elemento e
          a = new TreeNode(e);
          ++nelems;
+         a->tam_i++;
          crece = true;
       } else if (menor(e, a->elem)) {
          crece = inserta(e, a->iz);
+         a->tam_i++;
          if (crece) reequilibraDer(a);
       } else if (menor(a->elem, e)) {
          crece = inserta(e, a->dr);
@@ -150,19 +153,23 @@ protected:
 
    void rotaDer(Link & r2) {
       Link r1 = r2->iz;
+      int tam_i_total = r1->dr->tam_i;
       r2->iz = r1->dr;
       r1->dr = r2;
       r2->altura = std::max(altura(r2->iz), altura(r2->dr)) + 1;
       r1->altura = std::max(altura(r1->iz), altura(r1->dr)) + 1;
+      r2->tam_i = tam_i_total + 1;
       r2 = r1;
    }
 
    void rotaIzq(Link & r1) {
       Link r2 = r1->dr;
+      int tam_i_total = r1->tam_i + r2->iz_->tam_i;
       r1->dr = r2->iz;
       r2->iz = r1;
       r1->altura = std::max(altura(r1->iz), altura(r1->dr)) + 1;
       r2->altura = std::max(altura(r2->iz), altura(r2->dr)) + 1;
+      r2->tam_i = tam_i_total + 1;
       r1 = r2;
    }
 
