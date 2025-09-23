@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema2MARP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E963F3D-FE99-439C-8866-12E866E0F789}|MARP2-1\\MARP2-1.vcxproj|C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema2MARP\\MARP2-1\\MARP2-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E963F3D-FE99-439C-8866-12E866E0F789}|MARP2-1\\MARP2-1.vcxproj|solutionrelative:MARP2-1\\MARP2-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DBCB58-C3F9-45D7-8950-C2DA5CE19CB9}|MARP2-4\\MARP2-4.vcxproj|C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema2MARP\\MARP2-4\\MARP2-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6DBCB58-C3F9-45D7-8950-C2DA5CE19CB9}|MARP2-4\\MARP2-4.vcxproj|solutionrelative:MARP2-4\\MARP2-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C26EC6F-C745-4BE2-8977-BEC794A7A757}|MARP2-3\\MARP2-3.vcxproj|C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema2MARP\\MARP2-3\\MARP2-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C26EC6F-C745-4BE2-8977-BEC794A7A757}|MARP2-3\\MARP2-3.vcxproj|solutionrelative:MARP2-3\\MARP2-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DBCB58-C3F9-45D7-8950-C2DA5CE19CB9}|MARP2-4\\MARP2-4.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\TYPE_TRAITS||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MARP2-1.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema2MARP\\MARP2-1\\MARP2-1.cpp",
+              "RelativeDocumentMoniker": "MARP2-1\\MARP2-1.cpp",
+              "ToolTip": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema2MARP\\MARP2-1\\MARP2-1.cpp",
+              "RelativeToolTip": "MARP2-1\\MARP2-1.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T08:56:23.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "type_traits",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\type_traits",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\type_traits",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\type_traits",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\type_traits",
+              "ViewState": "AgIAADsJAAAAAAAAAAAtwEoJAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-23T08:51:20.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MARP2-3.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema2MARP\\MARP2-3\\MARP2-3.cpp",
+              "RelativeDocumentMoniker": "MARP2-3\\MARP2-3.cpp",
+              "ToolTip": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema2MARP\\MARP2-3\\MARP2-3.cpp",
+              "RelativeToolTip": "MARP2-3\\MARP2-3.cpp",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAowF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T08:36:51.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MARP2-4.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema2MARP\\MARP2-4\\MARP2-4.cpp",
+              "RelativeDocumentMoniker": "MARP2-4\\MARP2-4.cpp",
+              "ToolTip": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema2MARP\\MARP2-4\\MARP2-4.cpp",
+              "RelativeToolTip": "MARP2-4\\MARP2-4.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowC0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-23T08:36:43.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
