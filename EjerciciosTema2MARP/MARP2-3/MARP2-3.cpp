@@ -34,11 +34,12 @@ using namespace std;
 struct Caja {
 	int ocupada; // hasta cuando esta ocupada
 	int id; // para desempatar
+	bool operator < (Caja const& b) {
+		return b.ocupada < ocupada || (ocupada == b.ocupada && b.id < id);
+	}
 };
 
-bool operator < (Caja const& a, Caja const& b) {
-	return b.ocupada < a.ocupada || (a.ocupada == b.ocupada && b.id < a.id);
-}
+
 
 bool resuelveCaso() {
 
@@ -62,8 +63,6 @@ bool resuelveCaso() {
 	}
 
 	cout << cajas.top().id << '\n';
-
-	int64_t total = 0;
 
 	return true;
 }

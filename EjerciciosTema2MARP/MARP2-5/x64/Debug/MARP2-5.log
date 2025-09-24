@@ -1,0 +1,3 @@
+﻿  MARP2-5.cpp
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema2MARP\MARP2-5\MARP2-5.cpp(72,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  MARP2-5.vcxproj -> C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema2MARP\x64\Debug\MARP2-5.exe
