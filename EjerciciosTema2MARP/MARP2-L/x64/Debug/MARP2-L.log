@@ -1,0 +1,3 @@
+﻿  MARP2-L.cpp
+C:\Users\jose_\Desktop\MARP-2025\EjerciciosTema2MARP\MARP2-L\MARP2-L.cpp(63,21): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  MARP2-L.vcxproj -> C:\Users\jose_\Desktop\MARP-2025\EjerciciosTema2MARP\x64\Debug\MARP2-L.exe
