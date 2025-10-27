@@ -1,0 +1,173 @@
+﻿  MARP7-1.cpp
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(42,17): error C2665: 'std::deque<Valor,std::allocator<int>>::push_front':ninguna función sobrecargada pudo convertir todos los tipos de argumento
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(42,17): error C2665:         with
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(42,17): error C2665:         [
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(42,17): error C2665:             Valor=int
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(42,17): error C2665:         ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(1242,10):
+      puede ser 'void std::deque<Valor,std::allocator<int>>::push_front(_Ty &&)'
+          with
+          [
+              Valor=int,
+              _Ty=int
+          ]
+          C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(42,17):
+          'void std::deque<Valor,std::allocator<int>>::push_front(_Ty &&)': el argumento 1 no puede convertirse de 'AristaDirigida<Valor>' a '_Ty &&'
+          with
+          [
+              Valor=int,
+              _Ty=int
+          ]
+          and
+          [
+              Valor=int
+          ]
+          and
+          [
+              _Ty=int
+          ]
+              C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(42,28):
+              Razón: no se puede realizar la conversión de 'AristaDirigida<Valor>' a '_Ty'
+          with
+          [
+              Valor=int
+          ]
+          and
+          [
+              _Ty=int
+          ]
+              C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(42,28):
+              No hay disponible ningún operador de conversión definido por el usuario que pueda realizar esta conversión, o bien no se puede llamar al operador
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(1237,10):
+      o       'void std::deque<Valor,std::allocator<int>>::push_front(const _Ty &)'
+          with
+          [
+              Valor=int,
+              _Ty=int
+          ]
+          C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(42,17):
+          'void std::deque<Valor,std::allocator<int>>::push_front(const _Ty &)': el argumento 1 no puede convertirse de 'AristaDirigida<Valor>' a 'const _Ty &'
+          with
+          [
+              Valor=int,
+              _Ty=int
+          ]
+          and
+          [
+              Valor=int
+          ]
+          and
+          [
+              _Ty=int
+          ]
+              C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(42,28):
+              Razón: no se puede realizar la conversión de 'AristaDirigida<Valor>' a 'const _Ty'
+          with
+          [
+              Valor=int
+          ]
+          and
+          [
+              _Ty=int
+          ]
+              C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(42,28):
+              No hay disponible ningún operador de conversión definido por el usuario que pueda realizar esta conversión, o bien no se puede llamar al operador
+      C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(42,17):
+      al hacer coincidir la lista de argumentos '(AristaDirigida<Valor>)'
+          with
+          [
+              Valor=int
+          ]
+      C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(42,17):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(89,23):
+          Vea la referencia a la creación de una instancia de clase plantilla "Dijkstra<int>" que se está compilando
+          C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(37,12):
+          al compilar la función del miembro clase plantilla "std::deque<Valor,std::allocator<int>> Dijkstra<Valor>::camino(int) const"
+          with
+          [
+              Valor=int
+          ]
+              C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(93,25):
+              vea la primera referencia a “Dijkstra<int>::camino” en “resuelveCaso”
+  
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(43,13): error C2665: 'std::deque<Valor,std::allocator<int>>::push_front':ninguna función sobrecargada pudo convertir todos los tipos de argumento
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(43,13): error C2665:         with
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(43,13): error C2665:         [
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(43,13): error C2665:             Valor=int
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(43,13): error C2665:         ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(1242,10):
+      puede ser 'void std::deque<Valor,std::allocator<int>>::push_front(_Ty &&)'
+          with
+          [
+              Valor=int,
+              _Ty=int
+          ]
+          C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(43,13):
+          'void std::deque<Valor,std::allocator<int>>::push_front(_Ty &&)': el argumento 1 no puede convertirse de 'AristaDirigida<Valor>' a '_Ty &&'
+          with
+          [
+              Valor=int,
+              _Ty=int
+          ]
+          and
+          [
+              Valor=int
+          ]
+          and
+          [
+              _Ty=int
+          ]
+              C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(43,24):
+              Razón: no se puede realizar la conversión de 'AristaDirigida<Valor>' a '_Ty'
+          with
+          [
+              Valor=int
+          ]
+          and
+          [
+              _Ty=int
+          ]
+              C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(43,24):
+              No hay disponible ningún operador de conversión definido por el usuario que pueda realizar esta conversión, o bien no se puede llamar al operador
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(1237,10):
+      o       'void std::deque<Valor,std::allocator<int>>::push_front(const _Ty &)'
+          with
+          [
+              Valor=int,
+              _Ty=int
+          ]
+          C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(43,13):
+          'void std::deque<Valor,std::allocator<int>>::push_front(const _Ty &)': el argumento 1 no puede convertirse de 'AristaDirigida<Valor>' a 'const _Ty &'
+          with
+          [
+              Valor=int,
+              _Ty=int
+          ]
+          and
+          [
+              Valor=int
+          ]
+          and
+          [
+              _Ty=int
+          ]
+              C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(43,24):
+              Razón: no se puede realizar la conversión de 'AristaDirigida<Valor>' a 'const _Ty'
+          with
+          [
+              Valor=int
+          ]
+          and
+          [
+              _Ty=int
+          ]
+              C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(43,24):
+              No hay disponible ningún operador de conversión definido por el usuario que pueda realizar esta conversión, o bien no se puede llamar al operador
+      C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema7MARP\MARP7-1\MARP7-1.cpp(43,13):
+      al hacer coincidir la lista de argumentos '(AristaDirigida<Valor>)'
+          with
+          [
+              Valor=int
+          ]
+  
