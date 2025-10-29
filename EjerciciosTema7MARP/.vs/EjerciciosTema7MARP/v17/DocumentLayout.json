@@ -3,12 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C7B98CC5-87CF-4C16-9FE3-6346B9C06369}|MARP7-5\\MARP7-5.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\MARP7-5\\MARP7-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7B98CC5-87CF-4C16-9FE3-6346B9C06369}|MARP7-5\\MARP7-5.vcxproj|solutionrelative:MARP7-5\\MARP7-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B227225B-0DB1-4E27-B305-92AA6AE56CB2}|MARP7-4\\MARP7-4.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\MARP7-4\\MARP7-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B227225B-0DB1-4E27-B305-92AA6AE56CB2}|MARP7-4\\MARP7-4.vcxproj|solutionrelative:MARP7-4\\MARP7-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A569D86-A7C9-4D59-BD4A-8CF6576BE222}|MARP7-2\\MARP7-2.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\MARP7-2\\MARP7-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5A569D86-A7C9-4D59-BD4A-8CF6576BE222}|MARP7-2\\MARP7-2.vcxproj|solutionrelative:MARP7-2\\MARP7-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2FEA749-2FE6-439F-B1C9-D7E397FC2A24}|MARP7-1\\MARP7-1.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\MARP7-1\\MARP7-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D2FEA749-2FE6-439F-B1C9-D7E397FC2A24}|MARP7-1\\MARP7-1.vcxproj|solutionrelative:MARP7-1\\MARP7-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B98DEDC-2239-4F7A-9F4A-4B4BEC8A70AB}|MARP7-3\\MARP7-3.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\MARP7-3\\MARP7-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B98DEDC-2239-4F7A-9F4A-4B4BEC8A70AB}|MARP7-3\\MARP7-3.vcxproj|solutionrelative:MARP7-3\\MARP7-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP6-L\\MARP6-L.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -30,19 +45,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MARP7-5.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\MARP7-5\\MARP7-5.cpp",
+              "RelativeDocumentMoniker": "MARP7-5\\MARP7-5.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\MARP7-5\\MARP7-5.cpp",
+              "RelativeToolTip": "MARP7-5\\MARP7-5.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwFEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-29T17:17:05.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ViewState": "AgIAAIMHAAAAAAAAAAAhwJMHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-29T17:02:29.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MARP7-4.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\MARP7-4\\MARP7-4.cpp",
+              "RelativeDocumentMoniker": "MARP7-4\\MARP7-4.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\MARP7-4\\MARP7-4.cpp",
+              "RelativeToolTip": "MARP7-4\\MARP7-4.cpp",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-29T16:55:55.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MARP7-3.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\MARP7-3\\MARP7-3.cpp",
+              "RelativeDocumentMoniker": "MARP7-3\\MARP7-3.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\MARP7-3\\MARP7-3.cpp",
+              "RelativeToolTip": "MARP7-3\\MARP7-3.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAgwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-29T16:39:23.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MARP7-2.cpp",
               "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\MARP7-2\\MARP7-2.cpp",
               "RelativeDocumentMoniker": "MARP7-2\\MARP7-2.cpp",
               "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\MARP7-2\\MARP7-2.cpp",
               "RelativeToolTip": "MARP7-2\\MARP7-2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAgwGkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-27T17:24:03.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "MARP6-L.cpp",
               "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP6-L\\MARP6-L.cpp",
               "RelativeDocumentMoniker": "..\\EjerciciosTema6MARP\\MARP6-L\\MARP6-L.cpp",
@@ -50,18 +117,17 @@
               "RelativeToolTip": "..\\EjerciciosTema6MARP\\MARP6-L\\MARP6-L.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-27T16:20:06.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T16:20:06.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MARP7-1.cpp",
               "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\MARP7-1\\MARP7-1.cpp",
               "RelativeDocumentMoniker": "MARP7-1\\MARP7-1.cpp",
               "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema7MARP\\MARP7-1\\MARP7-1.cpp",
               "RelativeToolTip": "MARP7-1\\MARP7-1.cpp",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAgwIAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwIAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-27T16:19:00.294Z",
               "EditorCaption": ""
