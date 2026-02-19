@@ -1,19 +1,80 @@
-// MARP8-1.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
+/*@ <authors>
+ *
+ * MARP11 José Antonio Carmona Alfonsel
+ *
+ *@ </authors> */
+
+
+ /*@ <COSTE>
+  *
+  *
+  *@ </COSTE> */
 
 #include <iostream>
+#include <fstream>
+#include <queue>
+using namespace std;
 
-int main()
-{
-    std::cout << "Hello World!\n";
+int numero_parches(vector<int> const& S, int L) {
+    int nParches = 0;
+    int longParche = L;
+    vector<bool> agujeroParcheado(S.size(), false);
+    for (int i = 0; i < S.size(); ++i) {
+        if (!agujeroParcheado[i])
+            nParches++;
+        if (i != S.size() - 1) {
+            int dif = S[i + 1] - S[i];
+            if (dif <= longParche) {
+                agujeroParcheado[i + 1] = true;
+                longParche -= dif;
+            }
+            else
+                longParche = L;
+        }
+    }
+    return nParches;
 }
 
-// Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
-// Depurar programa: F5 o menú Depurar > Iniciar depuración
+bool resuelveCaso() {
 
-// Sugerencias para primeros pasos: 1. Use la ventana del Explorador de soluciones para agregar y administrar archivos
-//   2. Use la ventana de Team Explorer para conectar con el control de código fuente
-//   3. Use la ventana de salida para ver la salida de compilación y otros mensajes
-//   4. Use la ventana Lista de errores para ver los errores
-//   5. Vaya a Proyecto > Agregar nuevo elemento para crear nuevos archivos de código, o a Proyecto > Agregar elemento existente para agregar archivos de código existentes al proyecto
-//   6. En el futuro, para volver a abrir este proyecto, vaya a Archivo > Abrir > Proyecto y seleccione el archivo .sln
+    // leemos la entrada
+    int N, L;
+    cin >> N;
+    if (!cin) return false;
+    vector<int> agujeros = vector<int>();
+
+    cin >> L;
+
+    for (int i = 0; i < N; ++i) {
+        int e;
+        cin >> e;
+        agujeros.push_back(e);
+    }
+
+    cout << numero_parches(agujeros, L) << endl;
+    
+
+    return true;
+}
+
+//@ </answer>
+//  Lo que se escriba debajo de esta línea ya no forma parte de la solución.
+
+int main() {
+    // ajustes para que cin extraiga directamente de un fichero
+#ifndef DOMJUDGE
+    ifstream in("casos.txt");
+    if (!in.is_open())
+        cout << "Error: no se ha podido abrir el archivo de entrada." << endl;
+    auto cinbuf = cin.rdbuf(in.rdbuf());
+#endif
+
+    // Resolvemos
+    while (resuelveCaso());
+
+    // para dejar todo como estaba al principio
+#ifndef DOMJUDGE
+    cin.rdbuf(cinbuf);
+#endif
+    return 0;
+}

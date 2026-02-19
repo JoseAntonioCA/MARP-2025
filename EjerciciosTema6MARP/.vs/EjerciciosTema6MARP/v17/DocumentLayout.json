@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\",
+  "WorkspaceRootPath": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\MARP7-3\\DigrafoValorado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MARP7-3\\DigrafoValorado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89EDDAC3-4292-4D87-A344-D483CA40B86B}|MARP6-L\\MARP6-L.vcxproj|C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\MARP6-L\\MARP6-L.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{89EDDAC3-4292-4D87-A344-D483CA40B86B}|MARP6-L\\MARP6-L.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP6-L\\MARP6-L.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{89EDDAC3-4292-4D87-A344-D483CA40B86B}|MARP6-L\\MARP6-L.vcxproj|solutionrelative:MARP6-L\\MARP6-L.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89EDDAC3-4292-4D87-A344-D483CA40B86B}|MARP6-L\\MARP6-L.vcxproj|C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\MARP6-L\\GRAFOVALORADO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{89EDDAC3-4292-4D87-A344-D483CA40B86B}|MARP6-L\\MARP6-L.vcxproj|solutionrelative:MARP6-L\\GRAFOVALORADO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP7-3\\DigrafoValorado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MARP7-3\\DigrafoValorado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C45DE9-2802-4F07-88B3-762F0F813E4E}|MARP6-2\\MARP6-2.vcxproj|C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\MARP6-2\\MARP6-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{38C45DE9-2802-4F07-88B3-762F0F813E4E}|MARP6-2\\MARP6-2.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP6-2\\MARP6-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{38C45DE9-2802-4F07-88B3-762F0F813E4E}|MARP6-2\\MARP6-2.vcxproj|solutionrelative:MARP6-2\\MARP6-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DEBA5B4-8EB0-45F2-9FA0-DF9CEF4006FF}|MARP6-1\\MARP6-1.vcxproj|C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\MARP6-1\\MARP6-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2DEBA5B4-8EB0-45F2-9FA0-DF9CEF4006FF}|MARP6-1\\MARP6-1.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP6-1\\MARP6-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2DEBA5B4-8EB0-45F2-9FA0-DF9CEF4006FF}|MARP6-1\\MARP6-1.vcxproj|solutionrelative:MARP6-1\\MARP6-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP6-L\\GrafoValorado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MARP6-L\\GrafoValorado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,44 +30,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DigrafoValorado.h",
-              "DocumentMoniker": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\MARP7-3\\DigrafoValorado.h",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP7-3\\DigrafoValorado.h",
               "RelativeDocumentMoniker": "MARP7-3\\DigrafoValorado.h",
-              "ToolTip": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\MARP7-3\\DigrafoValorado.h",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP7-3\\DigrafoValorado.h",
               "RelativeToolTip": "MARP7-3\\DigrafoValorado.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-28T09:43:41.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T09:43:41.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "GrafoValorado.h",
-              "DocumentMoniker": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\MARP6-L\\GrafoValorado.h",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP6-L\\GrafoValorado.h",
               "RelativeDocumentMoniker": "MARP6-L\\GrafoValorado.h",
-              "ToolTip": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\MARP6-L\\GrafoValorado.h",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP6-L\\GrafoValorado.h",
               "RelativeToolTip": "MARP6-L\\GrafoValorado.h",
               "ViewState": "AgIAABMAAAAAAAAAAAAIwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -75,23 +62,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MARP6-L.cpp",
-              "DocumentMoniker": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\MARP6-L\\MARP6-L.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP6-L\\MARP6-L.cpp",
               "RelativeDocumentMoniker": "MARP6-L\\MARP6-L.cpp",
-              "ToolTip": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\MARP6-L\\MARP6-L.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP6-L\\MARP6-L.cpp",
               "RelativeToolTip": "MARP6-L\\MARP6-L.cpp",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAswG0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswG0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-23T07:48:58.467Z"
+              "WhenOpened": "2025-10-23T07:48:58.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MARP6-2.cpp",
-              "DocumentMoniker": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\MARP6-2\\MARP6-2.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP6-2\\MARP6-2.cpp",
               "RelativeDocumentMoniker": "MARP6-2\\MARP6-2.cpp",
-              "ToolTip": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\MARP6-2\\MARP6-2.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP6-2\\MARP6-2.cpp",
               "RelativeToolTip": "MARP6-2\\MARP6-2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -99,25 +87,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MARP6-1.cpp",
-              "DocumentMoniker": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\MARP6-1\\MARP6-1.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP6-1\\MARP6-1.cpp",
               "RelativeDocumentMoniker": "MARP6-1\\MARP6-1.cpp",
-              "ToolTip": "C:\\Users\\jose_\\Desktop\\MARP-2025\\EjerciciosTema6MARP\\MARP6-1\\MARP6-1.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema6MARP\\MARP6-1\\MARP6-1.cpp",
               "RelativeToolTip": "MARP6-1\\MARP6-1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-21T07:44:28.207Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
             }
           ]
         }
