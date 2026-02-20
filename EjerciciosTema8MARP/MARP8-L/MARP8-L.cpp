@@ -6,7 +6,8 @@
 
 
  /*@ <COSTE>
-  *
+  * 
+  * O (N log N) por el uso de colas de prioridad normales y variables
   *
   *@ </COSTE> */
 
@@ -17,9 +18,9 @@
 using namespace std;
 
 struct Conferencia {
-    int indice;
     int inicio;
     int final;
+    int index;
 
     bool operator<(const Conferencia& other) const {
         return (other.inicio < inicio);
@@ -37,45 +38,46 @@ bool resuelveCaso() {
 
     // leer el resto del caso y resolverlo
 
+    IndexPQ<int, less<int>> SalasEventos(N);
+
+
     priority_queue<Conferencia> pq = priority_queue<Conferencia>();
 
     for (int i = 0; i < N; i++) {
         int ini, fin;
         cin >> ini >> fin;
-
-        Conferencia conferencia = Conferencia();
-        conferencia.final = fin;
-        conferencia.inicio = ini;
-        conferencia.indice = i;
-
-        pq.push(conferencia);
+        
+        pq.push({ ini, fin, i });
     }
-
-    std::vector<int> soluc = vector<int>(N, 0);
 
     int nSalas = 1;
+    vector<int> soluc = vector<int>(N, 0);
 
     for (int i = 0; i < N; i++) {
-        if (i == 0) {
-            soluc[i] = 1;
+        auto e = pq.top();
+        pq.pop();
+
+        if (SalasEventos.empty()) {
+            soluc[e.index] = nSalas;
+            SalasEventos.push(nSalas - 1, e.final);
         }
         else {
-            auto e = pq.top(); pq.pop();
-            if (e.final > pq.top().inicio) {
-                nSalas++;
-                soluc[i] = soluc[e.indice]+1;
+            if (e.inicio >= SalasEventos.top().prioridad) {
+                soluc[e.index] = SalasEventos.top().elem+1;
+                SalasEventos.update(SalasEventos.top().elem, e.final);
             }
             else {
-                soluc[i] = soluc[pq.top().indice];
+                nSalas++;
+                soluc[e.index] = nSalas;
+                SalasEventos.push(nSalas - 1, e.final);
             }
         }
     }
 
-    for (int i = 0; i < soluc.size(); i++) {
+    cout << nSalas << endl;
+    for (int i = 0; i < N; i++) {
         cout << soluc[i] << " ";
     }
-    
-
     cout << endl;
 
     return true;
