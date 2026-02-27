@@ -58,7 +58,7 @@ private:
     IndexPQ<Valor> pq;
     void relajar(AristaDirigida<Valor> a) {
         int v = a.desde(), w = a.hasta();
-        int distancia = dist[v] + a.valor();
+        Valor distancia = dist[v] + a.valor();
         if (dist[w] > distancia) {
             dist[w] = distancia;
             ways[w] = ways[v];
@@ -78,15 +78,15 @@ bool resuelveCaso() {
     cin >> N >> M;
     if (!cin) return false;
 
-    DigrafoValorado<int> grafo = DigrafoValorado<int>(N);
+    DigrafoValorado<long long> grafo = DigrafoValorado<long long>(N);
 
     int p1, p2;
     long coste;
     for (int i = 0; i < M; i++) {
         cin >> p1 >> p2 >> coste;
 
-        AristaDirigida<int> arista1 = AristaDirigida<int>(p2 - 1, p1 - 1, coste);
-        AristaDirigida<int> arista2 = AristaDirigida<int>(p1 - 1, p2 - 1, coste);
+        AristaDirigida<long long> arista1 = AristaDirigida<long long>(p2 - 1, p1 - 1, coste);
+        AristaDirigida<long long> arista2 = AristaDirigida<long long>(p1 - 1, p2 - 1, coste);
 
         grafo.ponArista(arista1);
         grafo.ponArista(arista2);
@@ -99,26 +99,38 @@ bool resuelveCaso() {
     visitados[0] = true;
     visitados[N - 1] = true;
 
-    Dijkstra<int> caminosNorte = Dijkstra<int>(grafo, 0);
-    std::vector<int> distanciasNorte = caminosNorte.getDistVector();
+    Dijkstra<long long> caminosNorte = Dijkstra<long long>(grafo, 0);
+    std::vector<long long> distanciasNorte = caminosNorte.getDistVector();
 
-    std::sort(distanciasNorte.begin(), distanciasNorte.end());
+    //std::sort(distanciasNorte.begin(), distanciasNorte.end());
 
-    Dijkstra<int> caminosSur = Dijkstra<int>(grafo, N-1);
-    std::vector<int> distanciasSur = caminosSur.getDistVector();
+    Dijkstra<long long> caminosSur = Dijkstra<long long>(grafo, N-1);
+    std::vector<long long> distanciasSur = caminosSur.getDistVector();
 
-    std::sort(distanciasSur.begin(), distanciasSur.end(), greater<int>());
+    //std::sort(distanciasSur.begin(), distanciasSur.end());
+    
+    std::vector<pair<long long, int>> diferencias = vector<pair<long long, int>>();
 
-
-    for (int i = 1; i < N/2; i++) {
-        costeNorte += distanciasNorte[i];
+    for (int i = 1; i < N-1; i++) {
+        diferencias.push_back({ distanciasNorte[i] - distanciasSur[i], i });
     }
 
-    for (int i = N/2; i < N-1; i++) {
-        costeSur += distanciasSur[i];
+    std::sort(diferencias.begin(), diferencias.end());
+
+    long long costeTotal = 0;
+    long long mitad = (N - 2) / 2;
+
+    for (int i = 0; i < mitad; i++) {
+        int pueblo = diferencias[i].second;
+        costeTotal += (distanciasNorte[pueblo] * 2);
+    }
+
+    for (int i = mitad; i < diferencias.size(); i++) {
+        int pueblo = diferencias[i].second;
+        costeTotal += (distanciasSur[pueblo] * 2);
     }
     
-    cout << costeNorte * 2 + costeSur * 2 << endl;
+    cout << costeTotal << endl;
 
     return true;
 }

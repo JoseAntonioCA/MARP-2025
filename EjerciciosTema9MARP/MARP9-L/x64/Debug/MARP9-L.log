@@ -1,2 +1,3 @@
 ﻿  MARP9-L.cpp
-  MARP9-L.vcxproj -> C:\Users\jose_\Desktop\MARP-2025\EjerciciosTema9MARP\x64\Debug\MARP9-L.exe
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema9MARP\MARP9-L\MARP9-L.cpp(128,16): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+  MARP9-L.vcxproj -> C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema9MARP\x64\Debug\MARP9-L.exe
