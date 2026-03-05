@@ -1,0 +1,7 @@
+﻿  MARP10-1.cpp
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema10MARP\MARP10-1\MARP10-1.cpp(57,20): warning C4244: 'inicializando': conversión de '_Ty' a 'int'; posible pérdida de datos
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema10MARP\MARP10-1\MARP10-1.cpp(57,20): warning C4244:         with
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema10MARP\MARP10-1\MARP10-1.cpp(57,20): warning C4244:         [
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema10MARP\MARP10-1\MARP10-1.cpp(57,20): warning C4244:             _Ty=__int64
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema10MARP\MARP10-1\MARP10-1.cpp(57,20): warning C4244:         ]
+  MARP10-1.vcxproj -> C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema10MARP\x64\Debug\MARP10-1.exe

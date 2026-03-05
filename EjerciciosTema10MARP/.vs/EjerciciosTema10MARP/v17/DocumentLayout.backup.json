@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema10MARP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4072C685-AAD5-4AF0-963E-6C595634D961}|MARP10-2\\MARP10-2.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema10MARP\\MARP10-2\\MARP10-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4072C685-AAD5-4AF0-963E-6C595634D961}|MARP10-2\\MARP10-2.vcxproj|solutionrelative:MARP10-2\\MARP10-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9DBF01-36F1-4E86-B27F-49775D26F76F}|MARP10-1\\MARP10-1.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema10MARP\\MARP10-1\\MARP10-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA9DBF01-36F1-4E86-B27F-49775D26F76F}|MARP10-1\\MARP10-1.vcxproj|solutionrelative:MARP10-1\\MARP10-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF7555B0-7469-4FE7-B71C-AA150A060664}|MARP10-L\\MARP10-L.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema10MARP\\MARP10-L\\MARP10-L.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AF7555B0-7469-4FE7-B71C-AA150A060664}|MARP10-L\\MARP10-L.vcxproj|solutionrelative:MARP10-L\\MARP10-L.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -17,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,7 +33,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MARP10-2.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema10MARP\\MARP10-2\\MARP10-2.cpp",
+              "RelativeDocumentMoniker": "MARP10-2\\MARP10-2.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema10MARP\\MARP10-2\\MARP10-2.cpp*",
+              "RelativeToolTip": "MARP10-2\\MARP10-2.cpp*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T18:26:06.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MARP10-1.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema10MARP\\MARP10-1\\MARP10-1.cpp",
+              "RelativeDocumentMoniker": "MARP10-1\\MARP10-1.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema10MARP\\MARP10-1\\MARP10-1.cpp",
+              "RelativeToolTip": "MARP10-1\\MARP10-1.cpp",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T17:59:03.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\jose_\\Downloads\\contest-MARP-VJ\\material\\main.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\contest-MARP-VJ\\material\\main.cpp",
@@ -37,13 +71,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MARP10-L.cpp",
               "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema10MARP\\MARP10-L\\MARP10-L.cpp",
               "RelativeDocumentMoniker": "MARP10-L\\MARP10-L.cpp",
               "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema10MARP\\MARP10-L\\MARP10-L.cpp",
               "RelativeToolTip": "MARP10-L\\MARP10-L.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAiwG4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-20T08:33:15.014Z",
               "EditorCaption": ""
