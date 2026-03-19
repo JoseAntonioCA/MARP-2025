@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema11MARP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C415295-0643-4C48-8F72-CE7D26E28CC7}|MARP11-1\\MARP11-1.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema11MARP\\MARP11-1\\MARP11-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C415295-0643-4C48-8F72-CE7D26E28CC7}|MARP11-1\\MARP11-1.vcxproj|solutionrelative:MARP11-1\\MARP11-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MARP11-1.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema11MARP\\MARP11-1\\MARP11-1.cpp",
+              "RelativeDocumentMoniker": "MARP11-1\\MARP11-1.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema11MARP\\MARP11-1\\MARP11-1.cpp",
+              "RelativeToolTip": "MARP11-1\\MARP11-1.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-19T18:18:20.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -24,43 +24,26 @@ using namespace std;
  // Escribe el código completo de tu solución aquí debajo (después de la marca)
  //@ <answer>
 
-pair<int, int> devolver_cambio(vector<int> const& M, int C) {
+void devolver_cambio(vector<int> const& M, int C, int precio) {
     int n = M.size();
-    EntInf infinito = EntInf();
-    Matriz<int> monedas(n + 1, C + 1, infinito._intInf);
-    monedas[0][0] = 0;
+    vector<EntInf> monedas(C + 1, Infinito);
+    monedas[0] = 0;
+    // calcular la matriz sobre el propio vector
     for (int i = 1; i <= n; ++i) {
-        monedas[i][0] = 0;
-        for (int j = 1; j <= C; ++j)
-            if (M[i - 1] > j)
-                monedas[i][j] = monedas[i - 1][j];
-            else if (M[i - 1] > j && monedas[i - 1][j] != infinito._intInf && (i > 1 && ((monedas[i - 1][j]) * M[i - 2] >= M[i - 1]))) {
-                monedas[i][j] = monedas[i][j-1];
-            }
-            else
-                monedas[i][j] = min(monedas[i - 1][j], monedas[i][j - M[i - 1]] + 1);
-    }
-
-    pair<int, int> sol;
-    int pagado = 0;
-    int nMonedas = 0;
-    if (monedas[n][C] != infinito._intInf) {
-        int i = n, j = C;
-        while (j > 0) { // no se ha pagado todo
-            if (M[i - 1] <= j && monedas[i][j] != monedas[i - 1][j]) {
-                // tomamos una moneda de tipo i
-                ; j = j - M[i - 1];
-
-
-            }
-            else // no tomamos más monedas de tipo i
-                --i;
+        for (int j = C; j >= M[i - 1]; j--) {
+            monedas[j] = min(monedas[j], monedas[j - M[i - 1]] + 1);
         }
     }
-    return sol;
+
+    int i = precio;
+    while (monedas[i] == Infinito)
+        i++;
+
+    cout << i << " " << monedas[i] << endl;
 }
 
 bool resuelveCaso() {
+    // leer el resto del caso y resolverlo
 
     int precio, n;
     cin >> precio >> n;
@@ -70,19 +53,16 @@ bool resuelveCaso() {
 
     vector<int> valoresMonedas = vector<int>();
 
+    int mayor = precio;
+
     for (int i = 0; i < n; i++) {
         int e;
         cin >> e;
+        mayor += e;
         valoresMonedas.push_back(e);
     }
 
-    pair<int, int> sol = devolver_cambio(valoresMonedas, n);
-
-
-    // leer el resto del caso y resolverlo
-
-
-
+    devolver_cambio(valoresMonedas, mayor, precio);
 
     return true;
 }
