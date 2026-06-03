@@ -1,0 +1,4 @@
+﻿  MARP11-3.cpp
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema11MARP\MARP11-3\MARP11-3.cpp(44,39): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema11MARP\MARP11-3\MARP11-3.cpp(50,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  MARP11-3.vcxproj -> C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema11MARP\x64\Debug\MARP11-3.exe
