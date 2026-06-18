@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema12MARP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72726D0B-96AE-438C-9E62-BE7B82ECA62C}|MARP12-2\\MARP12-2.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema12MARP\\MARP12-2\\MARP12-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72726D0B-96AE-438C-9E62-BE7B82ECA62C}|MARP12-2\\MARP12-2.vcxproj|solutionrelative:MARP12-2\\MARP12-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36BA2EEF-39CA-489F-A660-A0790E62C9C7}|MARP12-1\\MARP12-1.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema12MARP\\MARP12-1\\MARP12-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36BA2EEF-39CA-489F-A660-A0790E62C9C7}|MARP12-1\\MARP12-1.vcxproj|solutionrelative:MARP12-1\\MARP12-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2DA9BC-37EC-4107-A9FA-B38F5936B546}|MARP12-L\\MARP12-L.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema12MARP\\MARP12-L\\MARP12-L.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F2DA9BC-37EC-4107-A9FA-B38F5936B546}|MARP12-L\\MARP12-L.vcxproj|solutionrelative:MARP12-L\\MARP12-L.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5094407-F202-43A1-A778-7C4CE1892881}|MARP12-3\\MARP12-3.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema12MARP\\MARP12-3\\MARP12-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E5094407-F202-43A1-A778-7C4CE1892881}|MARP12-3\\MARP12-3.vcxproj|solutionrelative:MARP12-3\\MARP12-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,15 +35,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MARP12-2.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema12MARP\\MARP12-2\\MARP12-2.cpp",
+              "RelativeDocumentMoniker": "MARP12-2\\MARP12-2.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema12MARP\\MARP12-2\\MARP12-2.cpp",
+              "RelativeToolTip": "MARP12-2\\MARP12-2.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-07T15:37:30.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MARP12-L.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema12MARP\\MARP12-L\\MARP12-L.cpp",
+              "RelativeDocumentMoniker": "MARP12-L\\MARP12-L.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema12MARP\\MARP12-L\\MARP12-L.cpp",
+              "RelativeToolTip": "MARP12-L\\MARP12-L.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-04T17:28:42.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MARP12-1.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema12MARP\\MARP12-1\\MARP12-1.cpp",
+              "RelativeDocumentMoniker": "MARP12-1\\MARP12-1.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema12MARP\\MARP12-1\\MARP12-1.cpp",
+              "RelativeToolTip": "MARP12-1\\MARP12-1.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-04T16:48:22.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MARP12-3.cpp",
               "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema12MARP\\MARP12-3\\MARP12-3.cpp",
               "RelativeDocumentMoniker": "MARP12-3\\MARP12-3.cpp",
               "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema12MARP\\MARP12-3\\MARP12-3.cpp",
               "RelativeToolTip": "MARP12-3\\MARP12-3.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwF8AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-03T16:39:26.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T16:39:26.501Z"
             }
           ]
         }

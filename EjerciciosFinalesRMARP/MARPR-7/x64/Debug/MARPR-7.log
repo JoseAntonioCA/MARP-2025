@@ -1,0 +1,22 @@
+﻿  MARPR-7.cpp
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-7\Matriz.h(42,48): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MARPR-7.cpp")
+      C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-7\Matriz.h(42,48):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-7\MARPR-7.cpp(24,14):
+          Vea la referencia a la creación de una instancia de clase plantilla "Matriz<int>" que se está compilando
+          C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-7\Matriz.h(42,9):
+          al compilar la función del miembro clase plantilla "int Matriz<int>::numcols(void) const"
+              C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-7\MARPR-7.cpp(24,5):
+              vea la primera referencia a “Matriz<int>::numcols” en “rec”
+  
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-7\Matriz.h(41,44): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MARPR-7.cpp")
+      C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-7\Matriz.h(41,44):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-7\Matriz.h(41,9):
+          al compilar la función del miembro clase plantilla "int Matriz<int>::numfils(void) const"
+              C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-7\MARPR-7.cpp(24,5):
+              vea la primera referencia a “Matriz<int>::numfils” en “rec”
+  
+  MARPR-7.vcxproj -> C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\x64\Debug\MARPR-7.exe

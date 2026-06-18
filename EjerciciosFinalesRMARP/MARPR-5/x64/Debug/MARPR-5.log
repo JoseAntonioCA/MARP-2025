@@ -1,0 +1,7 @@
+﻿  MARPR-5.cpp
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-5\MARPR-5.cpp(29,42): warning C4244: '=': conversión de '__int64' a '_Ty'; posible pérdida de datos
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-5\MARPR-5.cpp(29,42): warning C4244:         with
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-5\MARPR-5.cpp(29,42): warning C4244:         [
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-5\MARPR-5.cpp(29,42): warning C4244:             _Ty=int
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-5\MARPR-5.cpp(29,42): warning C4244:         ]
+  MARPR-5.vcxproj -> C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\x64\Debug\MARPR-5.exe

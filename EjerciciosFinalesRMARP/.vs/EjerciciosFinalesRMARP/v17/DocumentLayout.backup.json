@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC046E6-FB50-4292-92EB-B08CA422DEC6}|MARPR-10\\MARPR-10.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-10\\MARPR-10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CC046E6-FB50-4292-92EB-B08CA422DEC6}|MARPR-10\\MARPR-10.vcxproj|solutionrelative:MARPR-10\\MARPR-10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A92816E-1B43-48A9-BF41-F8FD29EAD985}|MARPR-8\\MARPR-8.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-8\\MARPR-8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A92816E-1B43-48A9-BF41-F8FD29EAD985}|MARPR-8\\MARPR-8.vcxproj|solutionrelative:MARPR-8\\MARPR-8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACCC0A2-41EB-43AD-906F-0B769FCF1C10}|MARPR-9\\MARPR-9.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-9\\MARPR-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0ACCC0A2-41EB-43AD-906F-0B769FCF1C10}|MARPR-9\\MARPR-9.vcxproj|solutionrelative:MARPR-9\\MARPR-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E22BEB-4981-4077-BF9D-19147A1FE0B0}|MARPR-7\\MARPR-7.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-7\\MARPR-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5E22BEB-4981-4077-BF9D-19147A1FE0B0}|MARPR-7\\MARPR-7.vcxproj|solutionrelative:MARPR-7\\MARPR-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885DC987-78FE-4EF3-B99E-675C640D4D19}|MARPR-5\\MARPR-5.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-5\\MARPR-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{885DC987-78FE-4EF3-B99E-675C640D4D19}|MARPR-5\\MARPR-5.vcxproj|solutionrelative:MARPR-5\\MARPR-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E1A4FF-F11E-431E-A81B-88BFBE189B6F}|MARPR-1\\MARPR-1.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-1\\MARPR-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6E1A4FF-F11E-431E-A81B-88BFBE189B6F}|MARPR-1\\MARPR-1.vcxproj|solutionrelative:MARPR-1\\MARPR-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A7623-0ED8-4DBA-8C1E-D3F6804F5E8F}|MARPR-2\\MARPR-2.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-2\\MARPR-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE4A7623-0ED8-4DBA-8C1E-D3F6804F5E8F}|MARPR-2\\MARPR-2.vcxproj|solutionrelative:MARPR-2\\MARPR-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05963A8-049F-4D3D-AFB7-77991F48B911}|MARPR-3\\MARPR-3.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-3\\MARPR-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D05963A8-049F-4D3D-AFB7-77991F48B911}|MARPR-3\\MARPR-3.vcxproj|solutionrelative:MARPR-3\\MARPR-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601AF694-19AC-4521-A3C0-F82BDEF96F41}|MARPR-4\\MARPR-4.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-4\\MARPR-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{601AF694-19AC-4521-A3C0-F82BDEF96F41}|MARPR-4\\MARPR-4.vcxproj|solutionrelative:MARPR-4\\MARPR-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DA7092-4564-4B1D-A54C-1F8B96BD59CC}|MARPR-6\\MARPR-6.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-6\\MARPR-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92DA7092-4564-4B1D-A54C-1F8B96BD59CC}|MARPR-6\\MARPR-6.vcxproj|solutionrelative:MARPR-6\\MARPR-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MARPR-10.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-10\\MARPR-10.cpp",
+              "RelativeDocumentMoniker": "MARPR-10\\MARPR-10.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-10\\MARPR-10.cpp",
+              "RelativeToolTip": "MARPR-10\\MARPR-10.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-18T18:43:47.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MARPR-9.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-9\\MARPR-9.cpp",
+              "RelativeDocumentMoniker": "MARPR-9\\MARPR-9.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-9\\MARPR-9.cpp",
+              "RelativeToolTip": "MARPR-9\\MARPR-9.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-18T18:33:15.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MARPR-8.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-8\\MARPR-8.cpp",
+              "RelativeDocumentMoniker": "MARPR-8\\MARPR-8.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-8\\MARPR-8.cpp",
+              "RelativeToolTip": "MARPR-8\\MARPR-8.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-18T17:59:54.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MARPR-7.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-7\\MARPR-7.cpp",
+              "RelativeDocumentMoniker": "MARPR-7\\MARPR-7.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-7\\MARPR-7.cpp",
+              "RelativeToolTip": "MARPR-7\\MARPR-7.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-18T17:41:36.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MARPR-6.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-6\\MARPR-6.cpp",
+              "RelativeDocumentMoniker": "MARPR-6\\MARPR-6.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-6\\MARPR-6.cpp",
+              "RelativeToolTip": "MARPR-6\\MARPR-6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-18T17:32:14.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MARPR-5.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-5\\MARPR-5.cpp",
+              "RelativeDocumentMoniker": "MARPR-5\\MARPR-5.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-5\\MARPR-5.cpp",
+              "RelativeToolTip": "MARPR-5\\MARPR-5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-18T17:18:08.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MARPR-4.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-4\\MARPR-4.cpp",
+              "RelativeDocumentMoniker": "MARPR-4\\MARPR-4.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-4\\MARPR-4.cpp",
+              "RelativeToolTip": "MARPR-4\\MARPR-4.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwCsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-18T16:34:15.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MARPR-3.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-3\\MARPR-3.cpp",
+              "RelativeDocumentMoniker": "MARPR-3\\MARPR-3.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-3\\MARPR-3.cpp",
+              "RelativeToolTip": "MARPR-3\\MARPR-3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-18T16:16:21.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MARPR-2.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-2\\MARPR-2.cpp",
+              "RelativeDocumentMoniker": "MARPR-2\\MARPR-2.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-2\\MARPR-2.cpp",
+              "RelativeToolTip": "MARPR-2\\MARPR-2.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAFgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-18T15:35:28.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MARPR-1.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-1\\MARPR-1.cpp",
+              "RelativeDocumentMoniker": "MARPR-1\\MARPR-1.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosFinalesRMARP\\MARPR-1\\MARPR-1.cpp",
+              "RelativeToolTip": "MARPR-1\\MARPR-1.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-18T15:06:12.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

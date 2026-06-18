@@ -37,12 +37,8 @@ struct Grupo {
 };
 
 bool resuelveCaso() {
-
-    // leemos la entrada
     int P, N;
-    cin >> P >> N;
-
-    if (!cin)
+    if (!(cin >> P >> N))
         return false;
 
     priority_queue<Grupo, vector<Grupo>, less<Grupo>> grupos;
@@ -50,31 +46,21 @@ bool resuelveCaso() {
     for (int i = 0; i < N; i++) {
         int e;
         cin >> e;
-        grupos.push({ e, 1, e});
+        grupos.push({ e, 1, e });
     }
-
-    // leer el resto del caso y resolverlo
 
     for (int i = N; i < P; i++) {
         auto e = grupos.top();
-        if (e.musicos > e.nPartituras) {
-            grupos.pop();
-            e.nPartituras++;
-            float a = e.musicos / e.nPartituras;
-
-            int b = e.musicos / e.nPartituras;
-
-            if (b < a)
-                b++;
-
-            grupos.push({ e.musicos, e.nPartituras, b });
+        if (e.grupoMasGrande == 1) {
+            break;
         }
+        grupos.pop();
+        e.nPartituras++;
+        e.grupoMasGrande = (e.musicos + e.nPartituras - 1) / e.nPartituras;
+        grupos.push(e);
     }
 
-
     cout << grupos.top().grupoMasGrande << endl;
-
-
     return true;
 }
 

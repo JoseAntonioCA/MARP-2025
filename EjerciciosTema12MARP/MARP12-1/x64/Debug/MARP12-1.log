@@ -1,0 +1,4 @@
+﻿  MARP12-1.cpp
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema12MARP\MARP12-1\MARP12-1.cpp(13,17): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema12MARP\MARP12-1\MARP12-1.cpp(28,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  MARP12-1.vcxproj -> C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosTema12MARP\x64\Debug\MARP12-1.exe

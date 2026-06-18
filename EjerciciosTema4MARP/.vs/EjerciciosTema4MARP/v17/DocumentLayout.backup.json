@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema4MARP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{270530F8-B039-480E-B050-DD812B77E209}|MARP4-L\\MARP4-L.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema4MARP\\MARP4-L\\MARP4-L.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{270530F8-B039-480E-B050-DD812B77E209}|MARP4-L\\MARP4-L.vcxproj|solutionrelative:MARP4-L\\MARP4-L.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MARP4-L.cpp",
+              "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema4MARP\\MARP4-L\\MARP4-L.cpp",
+              "RelativeDocumentMoniker": "MARP4-L\\MARP4-L.cpp",
+              "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema4MARP\\MARP4-L\\MARP4-L.cpp",
+              "RelativeToolTip": "MARP4-L\\MARP4-L.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-29T16:51:45.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
