@@ -1,0 +1,4 @@
+﻿  MARPR-18.cpp
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-18\MARPR-18.cpp(8,31): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\MARPR-18\MARPR-18.cpp(8,44): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  MARPR-18.vcxproj -> C:\Users\jose_\OneDrive\Escritorio\MARP-2025\EjerciciosFinalesRMARP\x64\Debug\MARPR-18.exe

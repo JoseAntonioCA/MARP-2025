@@ -7,19 +7,12 @@
       "RelativeMoniker": "D:0:0:{2D91DB4F-225A-4561-A3C9-2970532DCAF4}|MARP8-L\\MARP8-L.vcxproj|solutionrelative:MARP8-L\\MARP8-L.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D91DB4F-225A-4561-A3C9-2970532DCAF4}|MARP8-L\\MARP8-L.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-L\\IndexPQ.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2D91DB4F-225A-4561-A3C9-2970532DCAF4}|MARP8-L\\MARP8-L.vcxproj|solutionrelative:MARP8-L\\IndexPQ.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE2842BF-212E-4C56-8424-5975318D1FC3}|MARP8-3\\MARP8-3.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-3\\MARP8-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FE2842BF-212E-4C56-8424-5975318D1FC3}|MARP8-3\\MARP8-3.vcxproj|solutionrelative:MARP8-3\\MARP8-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A6DDC9B-9824-4084-8AD5-F461B9EB7607}|MARP8-4\\MARP8-4.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-4\\MARP8-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1A6DDC9B-9824-4084-8AD5-F461B9EB7607}|MARP8-4\\MARP8-4.vcxproj|solutionrelative:MARP8-4\\MARP8-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+      "AbsoluteMoniker": "D:0:0:{FE2842BF-212E-4C56-8424-5975318D1FC3}|MARP8-3\\MARP8-3.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-3\\MARP8-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE2842BF-212E-4C56-8424-5975318D1FC3}|MARP8-3\\MARP8-3.vcxproj|solutionrelative:MARP8-3\\MARP8-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DD216D8-E9D0-410A-83FE-9C7A9E4CEB20}|MARP8-2\\MARP8-2.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-2\\MARP8-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -28,6 +21,13 @@
     {
       "AbsoluteMoniker": "D:0:0:{864A9DB4-E8DB-4534-9757-E0B5A99632A3}|MARP8-1\\MARP8-1.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-1\\MARP8-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{864A9DB4-E8DB-4534-9757-E0B5A99632A3}|MARP8-1\\MARP8-1.vcxproj|solutionrelative:MARP8-1\\MARP8-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D91DB4F-225A-4561-A3C9-2970532DCAF4}|MARP8-L\\MARP8-L.vcxproj|C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-L\\IndexPQ.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D91DB4F-225A-4561-A3C9-2970532DCAF4}|MARP8-L\\MARP8-L.vcxproj|solutionrelative:MARP8-L\\IndexPQ.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,7 +45,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "vector",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
@@ -53,12 +53,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
               "ViewState": "AgIAAH8IAAAAAAAAAAAlwIsIAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-20T16:39:16.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T16:39:16.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "IndexPQ.h",
               "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-L\\IndexPQ.h",
               "RelativeDocumentMoniker": "MARP8-L\\IndexPQ.h",
@@ -66,18 +65,17 @@
               "RelativeToolTip": "MARP8-L\\IndexPQ.h",
               "ViewState": "AgIAAEUAAAAAAAAAAAAlwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-20T16:20:16.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T16:20:16.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MARP8-4.cpp",
               "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-4\\MARP8-4.cpp",
               "RelativeDocumentMoniker": "MARP8-4\\MARP8-4.cpp",
               "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-4\\MARP8-4.cpp",
               "RelativeToolTip": "MARP8-4\\MARP8-4.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-19T18:02:50.904Z",
               "EditorCaption": ""
@@ -90,22 +88,23 @@
               "RelativeDocumentMoniker": "MARP8-3\\MARP8-3.cpp",
               "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-3\\MARP8-3.cpp",
               "RelativeToolTip": "MARP8-3\\MARP8-3.cpp",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwBsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-19T17:24:30.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "MARP8-2.cpp",
               "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-2\\MARP8-2.cpp",
               "RelativeDocumentMoniker": "MARP8-2\\MARP8-2.cpp",
               "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-2\\MARP8-2.cpp",
               "RelativeToolTip": "MARP8-2\\MARP8-2.cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwFQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-19T17:03:13.059Z"
+              "WhenOpened": "2026-02-19T17:03:13.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -115,20 +114,20 @@
               "RelativeDocumentMoniker": "MARP8-L\\MARP8-L.cpp",
               "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-L\\MARP8-L.cpp",
               "RelativeToolTip": "MARP8-L\\MARP8-L.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-06T08:41:12.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "MARP8-1.cpp",
               "DocumentMoniker": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-1\\MARP8-1.cpp",
               "RelativeDocumentMoniker": "MARP8-1\\MARP8-1.cpp",
               "ToolTip": "C:\\Users\\jose_\\OneDrive\\Escritorio\\MARP-2025\\EjerciciosTema8MARP\\MARP8-1\\MARP8-1.cpp",
               "RelativeToolTip": "MARP8-1\\MARP8-1.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAiwE8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwE8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-04T08:23:06.766Z",
               "EditorCaption": ""

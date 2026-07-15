@@ -20,10 +20,12 @@ double mochila_rec(vector<Objeto> const& obj, int i, int j,
     else
     {
         int mini = min((obj[i-1].peso / obj[i-1].chorizoNecesario), j / obj[i-1].panNecesario);
+        double aux = -1;
         for (int k = 0; k <= mini; k++) {
-            mochila[i][j] = max(mochila_rec(obj, i - 1, j - obj[i-1].panNecesario * k, mochila) + obj[i-1].valor * k,
-                mochila[i][j]);
+            aux = max(mochila_rec(obj, i - 1, j - obj[i-1].panNecesario * k, mochila) + obj[i-1].valor * k,
+                aux);
         }
+        mochila[i][j] = aux;
     }
     return mochila[i][j];
 }
